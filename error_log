@@ -1,0 +1,78 @@
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 175
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 180
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 283
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 284
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 285
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 385
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 386
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 409
+[05-Nov-2021 13:21:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/index.php on line 410
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 175
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 180
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 288
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 289
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 290
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 390
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 391
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 414
+[05-Nov-2021 13:21:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kaggzcok/nganya.kaggz.co.ke/blog.php on line 415
+[05-Nov-2021 13:21:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:21:51 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:21:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:21:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:21:53 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:21:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 9
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 10
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:21:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 9
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 10
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:22:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:29:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 2
+[05-Nov-2021 13:29:32 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 3
+[05-Nov-2021 13:29:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:34:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:34:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:35:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 16:35:14 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kaggzcok/nganya.kaggz.co.ke/register.php on line 71
+[05-Nov-2021 13:35:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:35:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:39:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:39:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:39:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 16:39:57 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kaggzcok/nganya.kaggz.co.ke/register.php on line 71
+[05-Nov-2021 13:39:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'kaggzcok_root'@'localhost' to database 'kaggzcok_phpcms' in /home/kaggzcok/nganya.kaggz.co.ke/include/db.php on line 6
+[05-Nov-2021 13:45:40 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 37
+[05-Nov-2021 13:48:34 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/nganya.kaggz.co.ke/editprofile.php on line 44
+[05-Nov-2021 13:49:39 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 37
+[05-Nov-2021 13:50:13 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/nganya.kaggz.co.ke/editprofile.php on line 44
+[08-Nov-2021 06:41:53 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 37
+[16-Dec-2021 09:02:13 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 37
+[16-Dec-2021 09:45:35 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/nganya.kaggz.co.ke/login.php on line 37
+[16-Dec-2021 09:51:15 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/hitmaker.kaggz.co.ke/login.php on line 37
+[16-Dec-2021 09:52:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kaggzcok/hitmaker.kaggz.co.ke/blog.php on line 180
+[16-Dec-2021 09:52:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kaggzcok/hitmaker.kaggz.co.ke/blog.php on line 289
+[16-Dec-2021 09:52:42 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/kaggzcok/hitmaker.kaggz.co.ke/blog.php on line 290
+[16-Dec-2021 09:52:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kaggzcok/hitmaker.kaggz.co.ke/blog.php on line 391
+[16-Dec-2021 09:52:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kaggzcok/hitmaker.kaggz.co.ke/blog.php on line 415
+[16-Dec-2021 09:53:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kaggzcok/hitmaker.kaggz.co.ke/login.php on line 26
+[16-Dec-2021 09:54:08 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/hitmaker.kaggz.co.ke/login.php on line 37
+[16-Dec-2021 10:52:01 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/hitmaker.kaggz.co.ke/login.php on line 37
+[16-Dec-2021 11:00:47 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/hitmaker.kaggz.co.ke/login.php on line 37
+[16-Dec-2021 12:13:55 UTC] PHP Warning:  Use of undefined constant user_name - assumed 'user_name' (this will throw an Error in a future version of PHP) in /home/kaggzcok/hitmaker.kaggz.co.ke/login.php on line 37
